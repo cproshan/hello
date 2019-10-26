@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cba91d7-5ed6-4408-9078-99429bcd1792" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SkCHsJY1GFs1QB4TeBThCC5G1Y" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shopping-cart" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="bin\www" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="DEBUG" value="cart afzy*" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="bin/wwwrrr" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="product-seed.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/seed/product-seed.js" working-dir="$PROJECT_DIR$/seed">
+      <method v="2" />
+    </configuration>
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="www" working-dir="$PROJECT_DIR$/bin">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.bin/wwwrrr" />
+      <item itemvalue="Node.js.bin\www" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.www" />
+      <item itemvalue="Node.js.product-seed.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.product-seed.js" />
+        <item itemvalue="Node.js.www" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cba91d7-5ed6-4408-9078-99429bcd1792" name="Default Changelist" comment="" />
+      <created>1572098121700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572098121700</updated>
+      <workItem from="1572098124625" duration="2703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
