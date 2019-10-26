@@ -28,12 +28,6 @@ const products = [new product({
     price:340
 
 }),new product({
-    imgpath:"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjYwsyL4pnlAhXDTX0KHbGpBQ0QjRx6BAgBEAQ&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fsheos&psig=AOvVaw0CNZF4mQFvj5JcdBPqcnyc&ust=1571074316197615",
-    title:"Nike Airforce",
-    description:"afdsvsdvsfvsfvs sadsvsvsf fsvfsvfvfvff",
-    price:12
-
-}),new product({
     imgpath:"https://m.media-amazon.com/images/I/616FBaxXHFL._AC_UL436_SEARCH212385_.jpg",
     title:"NFS Payback",
     description:"Eletronic Arts",
